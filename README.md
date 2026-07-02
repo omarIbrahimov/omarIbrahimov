@@ -1,5 +1,5 @@
 # ⭐ About Me:
-I am a Sophomore year Computer Enginnering major at Koç University.<br>Broadening my knowledge across multiple areas of computer engineering.<br>Identifying my core technical interests in the field.<br>Building experience across Computer Engineering
+I am a Junior year Computer Enginnering major at Koç University.<br>Broadening my knowledge across multiple areas of computer engineering.<br>Identifying my core technical interests in the field.<br>Building experience across Computer Engineering
 
 
 ## 🌐 Socials:
